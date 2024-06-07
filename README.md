@@ -2,8 +2,6 @@
 
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://isabelaportfolio.vercel.app/)
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellaurie&layout=compact&theme=radical)
-
 ## Stacks 
 
 Tecnologias que possuo conhecimento
